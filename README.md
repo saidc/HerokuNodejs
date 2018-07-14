@@ -1,16 +1,16 @@
-# node-js-getting-started
+# HerokuNodejs
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+This application was started with the help of Getting Started with Node on Heroku (https://devcenter.heroku.com/articles/getting-started-with-nodejs).
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Make sure you have [Node.js] (http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone git@github.com/saidc/HerokuNodejs.git # or clone your own fork
+$ cd HerokuNodejs
 $ npm install
 $ npm start
 ```
